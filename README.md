@@ -18,7 +18,6 @@ Little Lemon is a fictional family-owned Mediterranean restaurant that combines 
 * [Data Management](#data-management)
 * [Testing](#testing)
 * [Future Improvements](#future-improvements)
-* [Honor Code](#honor-code)
 
 ---
 
