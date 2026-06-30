@@ -260,5 +260,3 @@ Potential enhancements include:
 * Content management integration
 
 The existing Context API and `useReducer` architecture make these additions straightforward.
-
-Please use this repository for learning and reference purposes only. If you're currently completing the certification, avoid copying the solution directly to ensure you gain the intended learning experience.
